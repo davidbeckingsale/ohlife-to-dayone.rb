@@ -17,6 +17,7 @@ For each entry added you will see a printout, like this:
 
 - File starts with a date.
 - No error checking!
+- Assumes entries are from 2011 or 2012.
 
 ## Credit to:
 - [DayOne sample script](https://gist.github.com/977766)
